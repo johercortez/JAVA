@@ -1,1 +1,2 @@
 repositorio de muestra
+es necesario tener git en tu computadora
